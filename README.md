@@ -12,4 +12,5 @@ GSAP (GreenSock Animation Platform) is a robust JavaScript library used for crea
 <br>
 
 ![image](https://github.com/user-attachments/assets/78a4cfe9-a1ae-412e-b7ec-5f39cf512ecb)
-![image](https://github.com/user-attachments/assets/78a4cfe9-a1ae-412e-b7ec-5f39cf512ecb)
+<br>
+![secon-page](https://github.com/user-attachments/assets/7a32dd2e-849f-4bd1-8ee0-1736a5dde97f)
